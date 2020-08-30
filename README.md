@@ -6,7 +6,7 @@ Make a get request specifying the name of the video you want
 ```
 https://youtubesearcher.vercel.app/search?q={name}
 ```
-Example - https://tube-search.vercel.app//search?q=flask
+Example - https://tube-search.vercel.app/search?q=flask
 
 ---
 
